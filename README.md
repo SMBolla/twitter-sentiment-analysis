@@ -1,4 +1,4 @@
-# Twitter Sentiment Classifier
+# twitter-sentiment-analysis
 
 This project uses the [Twitter Airline Sentiment dataset](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) to train a simple text classification model using TF-IDF + Logistic Regression.
 
@@ -10,5 +10,6 @@ This project uses the [Twitter Airline Sentiment dataset](https://www.kaggle.com
 - Evaluate with classification report
 
 Built using Google Colab.  
-Check out the notebook [here](./Twitter_Sentiment_Classifier.ipynb).
+Check out the notebook [here](twitter_sentiment_analysis.ipynb).
+
 # twitter-sentiment-analysis
